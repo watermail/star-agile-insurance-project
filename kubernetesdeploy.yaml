@@ -31,6 +31,6 @@ spec:
     app: insuranceapp-eta-app
   type: NodePort
   ports:
-  - nodePort: 31034    
+  - nodePort: 31037    
     port: 8081
     targetPort: 8081
